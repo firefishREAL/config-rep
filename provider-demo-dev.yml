@@ -2,4 +2,4 @@ spring:
   application:
     name: provider-demo
 env:
-  dev
+  dev1
