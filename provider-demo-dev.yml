@@ -1,7 +1,7 @@
 server:
   port: 10011
 env:
-  dev3
+  dev
 spring:
   rabbitmq:
     host: localhost
